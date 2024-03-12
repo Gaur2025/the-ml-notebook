@@ -55,4 +55,4 @@ Now the site is running with full features of this template. Just like the demo 
 
 This template has some plugins and settings pre-configured, it meets the most demands.
 
-Continue to [Quick Start](./quick-start/index.md) to config the website for your own need.
+Continue to [Quick Start](./python/index.md) to config the website for your own need.
