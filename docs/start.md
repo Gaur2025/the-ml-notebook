@@ -3,56 +3,29 @@ sidebar_position: 1
 slug: /
 ---
 
-# Get Started
+# Welcome to The ML Notebook 🚀
 
-This is a **pre-configured Docusaurus starter template** for i18n docs & posts using Docusaurus `v2.0.0-rc.1`, Typescript, Sass, Local Search etc.
+Dive into the fascinating world of Machine Learning with us at *The ML Notebook*! 🤖💡
 
-A live demo build directly from this repository is deployed on [docusaurus-boilerplate.vercel.app](https://docusaurus-boilerplate.vercel.app) which means you can start a docs site exactly like the demo out of the box.
+### What's Inside?
 
-You are viewing the latest version of the template demo and neccessary docs to help you quickly start a docs site. Try browse around this site to see the pre-configed features, full feature list can be find under [Boilerplate Features](./features.md)
+📚 **Explore**: Delve into insightful articles, tutorials, and resources on cutting-edge ML techniques and trends.
 
-## Start with this Template
+🔬 **Experiment**: Roll up your sleeves and get hands-on with our interactive labs and coding challenges.
 
-To use this template, simply **clone** this repo or click [Use This Template](https://github.com/arisac/docusaurus-boilerplate/generate) with your Github account.
+🌟 **Inspire**: Connect with fellow enthusiasts, share your breakthroughs, and be inspired by the ML community.
 
-Once cloned to your local machine,
+### Why Choose Us?
 
-**Install dependencies**
+At *The ML Notebook*, we're more than just a website - we're a journey. Whether you're a seasoned AI veteran or just starting out, we've got something for everyone. 
 
-```bash
-yarn
-```
+Our mission? To make the complex world of ML accessible, engaging, and most importantly, FUN! 🎉
 
-**Run the development server**
+So grab your virtual pen and join us as we write the next chapter in the ML revolution! Let's code, learn, and innovate together. The future of AI awaits!
 
-```bash
-yarn start
-```
+Ready to embark on this adventure? Let's get started! 🔍📝
 
-:::info
 
-Multi-languages and Search feature will not work in dev mode.
+[![The ML Notebook](/img/docusaurus.png)](https://drive.google.com/file/d/1J4bIqE1kx0xo-GAt_EZJrAuilNssG39L/view?usp=sharing)
 
-They only work in build productions.
-
-:::
-
-** Build the production site **
-
-```bash
-yarn build
-```
-
-** Run the build site **
-
-```bash
-npm run serve
-```
-
-Now the site is running with full features of this template. Just like the demo on https://docusaurus-boilerplate.vercel.app.
-
-## Setup Your Own
-
-This template has some plugins and settings pre-configured, it meets the most demands.
-
-Continue to [Quick Start](./python/index.md) to config the website for your own need.
+[Start Exploring](#) 🚀
