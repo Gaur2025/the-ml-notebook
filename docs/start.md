@@ -3,7 +3,7 @@ sidebar_position: 1
 slug: /
 ---
 
-# Welcome to The ML Notebook 🚀
+# Welcome to The ML Notebook(Staging) 🚀
 
 Dive into the fascinating world of Machine Learning with us at *The ML Notebook*! 🤖💡
 
